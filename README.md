@@ -1,6 +1,6 @@
 # System Software
 
-A curated collection of low-level algorithms, data structures, and core primitives for system software and embedded systems engineering.
+A curated collection of low-level algorithms, data structures, and core primitives for system software, embedded software engineering.
 
 ---
 
